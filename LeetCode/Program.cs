@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(LeetCode1822.Test().ToString());
+            Console.WriteLine(LeetCode1773.Test().ToString());
 
             Console.ReadLine();
         }
